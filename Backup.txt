@@ -1,0 +1,21 @@
+Client: Hi there,
+
+Client: You are the one who devloped this application..
+
+Server: NO, not myself alone but with my group members.
+
+Client: The application is working fine 
+
+Client: But it would have been better
+
+Client: If other clients were also added
+
+Server: We'll update the application soon
+
+Server: but for now, we are running short of time
+
+Client: Ok then, good luck~!!
+
+Server: Chow
+
+Client: Exit
